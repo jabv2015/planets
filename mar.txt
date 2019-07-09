@@ -3,3 +3,5 @@ this still does not have to much sense
 Still waiting
 
 continuing adding useless text
+
+not so happy with git
